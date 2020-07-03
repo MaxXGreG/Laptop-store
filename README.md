@@ -1,2 +1,3 @@
 # Laptop-store
-A site for selling websites, using amazon.
+* A full-stack web app using node
+* Sell laptops with amazon links
